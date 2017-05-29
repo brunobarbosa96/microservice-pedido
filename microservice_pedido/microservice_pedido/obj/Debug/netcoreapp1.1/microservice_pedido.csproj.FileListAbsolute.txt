@@ -1,0 +1,9 @@
+B:\Projetos\microservices\microservice-pedido\microservice_pedido\microservice_pedido\bin\Debug\netcoreapp1.1\microservice_pedido.deps.json
+B:\Projetos\microservices\microservice-pedido\microservice_pedido\microservice_pedido\bin\Debug\netcoreapp1.1\microservice_pedido.runtimeconfig.json
+B:\Projetos\microservices\microservice-pedido\microservice_pedido\microservice_pedido\bin\Debug\netcoreapp1.1\microservice_pedido.runtimeconfig.dev.json
+B:\Projetos\microservices\microservice-pedido\microservice_pedido\microservice_pedido\bin\Debug\netcoreapp1.1\microservice_pedido.dll
+B:\Projetos\microservices\microservice-pedido\microservice_pedido\microservice_pedido\obj\Debug\netcoreapp1.1\microservice_pedido.csprojResolveAssemblyReference.cache
+B:\Projetos\microservices\microservice-pedido\microservice_pedido\microservice_pedido\obj\Debug\netcoreapp1.1\microservice_pedido.AssemblyInfo.cs
+B:\Projetos\microservices\microservice-pedido\microservice_pedido\microservice_pedido\bin\Debug\netcoreapp1.1\microservice_pedido.pdb
+B:\Projetos\microservices\microservice-pedido\microservice_pedido\microservice_pedido\obj\Debug\netcoreapp1.1\microservice_pedido.dll
+B:\Projetos\microservices\microservice-pedido\microservice_pedido\microservice_pedido\obj\Debug\netcoreapp1.1\microservice_pedido.pdb
