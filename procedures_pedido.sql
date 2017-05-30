@@ -13,7 +13,7 @@ BEGIN
 		Arquivo: procedures_pedido
 		Descrição: Seleciona pedidos por id
 		Autor: Bruno Barbosa
-		EXEC SelecionarPedido 1
+		EXEC SelecionarPedido NULL, 10
 	*/
 
 	SELECT	idCliente,
